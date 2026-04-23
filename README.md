@@ -12,21 +12,21 @@
 
 ---
 
-## 🧠 Who I Am
+## Who I Am
 
 AI Systems Architect and Software Engineer with **10+ years of experience** designing, building, and deploying production-grade software and intelligent systems across distributed, backend, and applied AI environments.
 
-I specialize in architecting **autonomous and semi-autonomous AI systems** that extend beyond conversational interfaces into real operational workflows — combining reasoning-capable language models with deterministic control layers, scalable infrastructure, and enterprise-grade engineering discipline.
+I specialize in architecting **autonomous and semi-autonomous AI systems** that extend beyond conversational interfaces into real operational workflows. Combining reasoning-capable language models with deterministic control layers, scalable infrastructure, and enterprise-grade engineering discipline.
 
 > Known for translating ambiguous business problems into robust technical architectures, leading end-to-end system design, and delivering AI-enabled platforms that improve decision-making, automate complex workflows, and scale under real-world constraints.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🔹 Principal AI Systems Architect — *Syntheus AI* &nbsp;`Jan 2023 – Present`
 - Architect and lead development of production-grade AI systems automating complex business workflows using agentic execution patterns, structured memory, and controlled decision layers
-- Design stateful orchestration frameworks for long-running tasks — enabling agents to evaluate intermediate outputs, recover from failure states, and converge toward defined business objectives
+- Design stateful orchestration frameworks for long-running tasks. Enabling agents to evaluate intermediate outputs, recover from failure states, and converge toward defined business objectives
 - Build multi-agent architectures with specialized roles, tool access boundaries, and communication protocols for modularity, scalability, and fault tolerance
 - Integrate LLMs with deterministic services, APIs, and rule-based logic to balance flexibility, reliability, and compliance in production environments
 - Establish evaluation, monitoring, and observability practices to track system quality, latency, and failure modes across deployed AI services
@@ -48,14 +48,14 @@ I specialize in architecting **autonomous and semi-autonomous AI systems** that 
 
 ---
 
-## ⚙️ Core Expertise
+## Core Expertise
 
 ### 🔷 Agentic System Architecture *(Stateful & Goal-Oriented)*
 Using frameworks like **LangGraph**, I build cyclic, feedback-driven architectures where agents:
 - Re-evaluate intermediate outputs and self-correct
 - Handle failure states gracefully with deterministic checkpoints and validation layers
 - Maintain long-running context across multi-step tasks
-- Converge toward defined objectives — not one-off responses
+- Converge toward defined objectives, not one-off responses
 
 ### 🔷 Multi-Agent Orchestration & Distributed Intelligence
 Collaborative agent ecosystems where specialized agents coordinate through:
@@ -66,7 +66,7 @@ Collaborative agent ecosystems where specialized agents coordinate through:
 
 ### 🔷 Advanced LLM Integration & Optimization
 - Token efficiency strategies to reduce cost at scale
-- Prompt engineering grounded in system behavior — not trial and error
+- Prompt engineering grounded in system behavior, not trial and error
 - Context window management and memory layering
 - Hybrid architectures combining LLM reasoning with deterministic logic
 - Model routing and evaluation pipelines for continuous quality tracking
@@ -75,9 +75,9 @@ Collaborative agent ecosystems where specialized agents coordinate through:
 
 | Modality | Capability |
 |----------|-----------|
-| 🎙️ Voice | Real-time agents with STT, intent recognition, and low-latency response |
-| 👁️ Vision | Automated image/video analysis integrated into decision workflows |
-| 📝 Language | Context-aware NLP pipelines for structured and unstructured data |
+| Voice | Real-time agents with STT, intent recognition, and low-latency response |
+| Vision | Automated image/video analysis integrated into decision workflows |
+| Language | Context-aware NLP pipelines for structured and unstructured data |
 
 ### 🔷 Enterprise NLP & Localization *(Including RTL Languages)*
 - Tokenization inconsistency handling for underrepresented languages
@@ -86,26 +86,26 @@ Collaborative agent ecosystems where specialized agents coordinate through:
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 🤖 Autonomous Workflow Orchestration Platform
+### Autonomous Workflow Orchestration Platform
 Agentic execution framework for complex multi-step workflows with state persistence, tool invocation, retry logic, and feedback loops. Introduced deterministic checkpoints, validation layers, and observable execution traces to reduce manual supervision.
 
-### 🧩 Multi-Agent Research & Decision-Support System
-Modular agent ecosystem where specialized agents collaborate on research, analysis, planning, and action routing — with defined communication protocols, escalation paths, and conflict resolution mechanisms.
+### Multi-Agent Research & Decision-Support System
+Modular agent ecosystem where specialized agents collaborate on research, analysis, planning, and action routing with defined communication protocols, escalation paths, and conflict resolution mechanisms.
 
-### 🌐 Multilingual NLP / RTL Language Solution
+### Multilingual NLP / RTL Language Solution
 NLP capabilities for linguistically complex and right-to-left language environments, addressing tokenization, bidirectional rendering, and language-specific edge cases at enterprise scale.
 
-### 🎙️ Multimodal Voice-Vision-Language Pipeline
+### Multimodal Voice-Vision-Language Pipeline
 Integrated system combining speech, text, and visual inputs into a unified decision workflow with low-latency processing and contextual interpretation across modalities.
 
-### 🤖 [Mock Customer Service ChatBot](https://github.com/MA-Imran/Mock-Customer-Service-ChatBot)
-AI customer service agent that classifies and routes e-commerce queries using **LangGraph** and **LLaMA 3.1** — handling returns, shipping complaints, and product questions automatically.
+### [Mock Customer Service ChatBot](https://github.com/MA-Imran/Mock-Customer-Service-ChatBot)
+AI customer service agent that classifies and routes e-commerce queries using **LangGraph** and **LLaMA 3.1** handling returns, shipping complaints, and product questions automatically.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -136,28 +136,5 @@ AI customer service agent that classifies and routes e-commerce queries using **
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/Whisper_STT-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Imran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MA-Imran&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Looking to move beyond surface-level AI?
-
-*If you're building robust, autonomous systems that actually perform in production — let's talk.*
-
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.imrankh@gmail.com)
 
 </div>
