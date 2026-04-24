@@ -5,7 +5,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/abdullah.imrankh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.imrankh@gmail.com)
-[![Phone](https://img.shields.io/badge/+92_302_0006444-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923020006444)
 [![GitHub](https://img.shields.io/badge/MA--Imran-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MA-Imran)
 
 </div>
